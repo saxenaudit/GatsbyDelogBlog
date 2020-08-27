@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>{new Date().getFullYear()} SolvProb &bull;<a href="https://w3layouts.com">W3Layouts</a></p>
+        <p>{new Date().getFullYear()} SolvProb </p>
       </footer>
     </div>
   )
